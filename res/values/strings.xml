@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mock GPS</string>
+    <string name="start_mock_gps">Start Service</string>
+    <string name="stop_mock_gps">Stop Service</string>
+    <string name="manual_title">Manual</string>
+    <string name="manual">1. Disable the GPS receiver on this device to use the MockGPS Provider.\n2. Requires access mock location secure setting.</string>
+    <string name="notification">Running Mock GPS Service</string>
+    <string name="speed_format">Speed (%1$d km/h)</string>
+
+</resources>
