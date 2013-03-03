@@ -1,7 +1,7 @@
 MockGPS
 =============
 
-The application to emulate the location on the android device. Uses as input data '.kml' file.
+The application to emulate the location on the android device. Uses as input data `.kml` file.
 
 ![Example Image][1]
 
